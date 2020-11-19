@@ -1,6 +1,6 @@
 # Políticas y buenas prácticas de seguridad
    
-## 1. Practicas de seguridad en el desarrollo de aplicaciones
+## 1. Practicas de seguridad en el desarrollo de aplicaciones.
    Tener en cuenta buenas prácticas en el desarrollo de aplicaciones
     siguiendo el modelo SDLC (Ciclo de vida de Desarrollo de Software)
     en la definición, desarrollo, implementación y mantenimiento del

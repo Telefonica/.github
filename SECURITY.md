@@ -35,6 +35,8 @@ Utilizar herramientas de análisis de código verificadas por la organización y
  **- La inexistencia de incidencias criticas** 
  
  **- Una cobertura del 80%**
+ 
+En caso de dudas sobre las herramientas autorizadas sobre escaneo de código, consultar con tu área de Seguridad/CISO.
 
 ## 5 Prácticas de seguridad en el despliegue.
 
@@ -48,5 +50,4 @@ Asegurar que donde se despliega, el código no provoca defectos de bastionado.
 En cualquier caso se debe revisar el despliegue basándose en las guías CIS nivel 2 server.
 
 
-En caso de dudas sobre las herramientas autorizadas sobre escaneo de código, consultar con tu área de Seguridad/CISO.
 

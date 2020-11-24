@@ -36,5 +36,17 @@ Utilizar herramientas de análisis de código verificadas por la organización y
  
  **- Una cobertura del 80%**
 
+## 5 Prácticas de seguridad en el despliegue.
+
+Asegurar que donde se despliega, el código no provoca defectos de bastionado.
+
+-	No se usan contraseñas en claro.
+-	No se modifican los permisos de los servidores de forma amplia (777)
+-	Si el código necesita TLS, recordar que es a partir de la version 1.2.
+-	Si se guardan datos de carácter personal, hazlo de forma segura. 
+
+En cualquier caso se debe revisar el despliegue basándose en las guías CIS nivel 2 server.
+
+
 En caso de dudas sobre las herramientas autorizadas sobre escaneo de código, consultar con tu área de Seguridad/CISO.
 

@@ -61,29 +61,29 @@ You must consider good practices in the development of applications following th
 
 ## 2. Security practices in secure coding. 
 
-Apply these good practices in secure coding among others: 
+- Apply these good practices in secure coding among others: 
 
-Validate entries. 
+- Validate entries. 
 
-Encrypt outputs. 
+- Encrypt outputs. 
 
-Establish an adequate programming style. 
+- Establish an adequate programming style. 
 
-Managing the changes log. 
+- Managing the changes log. 
 
-Establish cryptographic practices when appropriate using strong encryption algorithms. 
+- Establish cryptographic practices when appropriate using strong encryption algorithms. 
 
-Properly handling the files that are part of the code. 
+- Properly handling the files that are part of the code. 
 
-Establish standardization and reuse processes. 
+- Establish standardization and reuse processes. 
 
-Apply security functions. 
+- Apply security functions. 
 
-Encrypt sensitive information (such as credentials) in the repositories, regardless of the environment 
+- Encrypt sensitive information (such as credentials) in the repositories, regardless of the environment 
 
-Not include information that could be sensitive in the comments of the source code. 
+- Not include information that could be sensitive in the comments of the source code. 
 
-For a complete list, contact your Security/CISO area. 
+- For a complete list, contact your Security/CISO area. 
 
  
 
@@ -91,11 +91,11 @@ For a complete list, contact your Security/CISO area.
 
 Follow the secure development standards established in: 
 
-OWASP 
+- OWASP 
 
-NIST 
+- NIST 
 
-ISO 21827 (System Security Engineering - Capability Madurity Model SSE-CMM) 
+- ISO 21827 (System Security Engineering - Capability Madurity Model SSE-CMM) 
 
  
 
@@ -103,9 +103,9 @@ ISO 21827 (System Security Engineering - Capability Madurity Model SSE-CMM)
 
 Use code analysis tools verified by the organization and validate that the code contemplates: 
 
-- The inexistence of critical incidents 
+**- The inexistence of critical incidents 
 
-- 80% coverage 
+**- 80% coverage 
 
 In case of doubts about the authorized tools for code scanning, consult with your Security/CISO area. 
 
@@ -115,13 +115,13 @@ In case of doubts about the authorized tools for code scanning, consult with you
 
 Ensure that where the code is deployed, it does not cause bastioning defects. 
 
-Do not use passwords in clear. 
+- Do not use passwords in clear. 
 
-Do not modify the permissions of the servers in a broad way (777). 
+- Do not modify the permissions of the servers in a broad way (777). 
 
-If the code needs TLS, remember to use it from version 1.2. 
+- If the code needs TLS, remember to use it from version 1.2. 
 
-If you save personal data, do it safely. 
+- If you save personal data, do it safely. 
 
-In any case, the deployment should be reviewed based on the CIS level 2 server guidelines 
+- In any case, the deployment should be reviewed based on the CIS level 2 server guidelines 
 

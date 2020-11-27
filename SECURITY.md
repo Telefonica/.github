@@ -123,5 +123,5 @@ Ensure that where the code is deployed, it does not cause bastioning defects.
 
 - If you save personal data, do it safely. 
 
-- In any case, the deployment should be reviewed based on the CIS level 2 server guidelines 
+In any case, the deployment should be reviewed based on the CIS level 2 server guidelines 
 

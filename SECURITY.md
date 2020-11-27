@@ -1,4 +1,6 @@
 # Políticas y buenas prácticas de seguridad
+
+English version below
    
 ## 1. Practicas de seguridad en el desarrollo de aplicaciones.
    Tener en cuenta buenas prácticas en el desarrollo de aplicaciones
@@ -49,5 +51,77 @@ Asegurar que donde se despliega, el código no provoca defectos de bastionado.
 
 En cualquier caso se debe revisar el despliegue basándose en las guías CIS nivel 2 server.
 
+# Security policies and good practices 
 
+## 1. Security practices in application development. 
+
+You must consider good practices in the development of applications following the SDLC model (Software Development Life Cycle) in the definition, development, implementation, and maintenance of the code. 
+
+ 
+
+## 2. Security practices in secure coding. 
+
+Apply these good practices in secure coding among others: 
+
+Validate entries. 
+
+Encrypt outputs. 
+
+Establish an adequate programming style. 
+
+Managing the changes log. 
+
+Establish cryptographic practices when appropriate using strong encryption algorithms. 
+
+Properly handling the files that are part of the code. 
+
+Establish standardization and reuse processes. 
+
+Apply security functions. 
+
+Encrypt sensitive information (such as credentials) in the repositories, regardless of the environment 
+
+Not include information that could be sensitive in the comments of the source code. 
+
+For a complete list, contact your Security/CISO area. 
+
+ 
+
+## 3. Development standards. 
+
+Follow the secure development standards established in: 
+
+OWASP 
+
+NIST 
+
+ISO 21827 (System Security Engineering - Capability Madurity Model SSE-CMM) 
+
+ 
+
+## 4. Code analysis tools. 
+
+Use code analysis tools verified by the organization and validate that the code contemplates: 
+
+- The inexistence of critical incidents 
+
+- 80% coverage 
+
+In case of doubts about the authorized tools for code scanning, consult with your Security/CISO area. 
+
+ 
+
+## 5. Security practices in the deployment. 
+
+Ensure that where the code is deployed, it does not cause bastioning defects. 
+
+Do not use passwords in clear. 
+
+Do not modify the permissions of the servers in a broad way (777). 
+
+If the code needs TLS, remember to use it from version 1.2. 
+
+If you save personal data, do it safely. 
+
+In any case, the deployment should be reviewed based on the CIS level 2 server guidelines 
 

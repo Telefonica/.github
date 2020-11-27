@@ -103,9 +103,9 @@ Follow the secure development standards established in:
 
 Use code analysis tools verified by the organization and validate that the code contemplates: 
 
-**- The inexistence of critical incidents 
+**- The inexistence of critical incidents** 
 
-**- 80% coverage 
+**- 80% coverage** 
 
 In case of doubts about the authorized tools for code scanning, consult with your Security/CISO area. 
 

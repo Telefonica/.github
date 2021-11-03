@@ -1,5 +1,5 @@
 Telefonica CDCO
-![Telefonica Logo](./logo_telefonica_azul.png)
+![Telefonica Logo](./profile/logo_telefonica_azul.png)
 Links of interest: 
 
 * [Confluence site](https://confluence.tid.es/display/CTO/CDCO)

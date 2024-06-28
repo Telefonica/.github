@@ -1,6 +1,6 @@
 Telefonica CDCO
 
-![Telefonica Logo](./profile/logo_telefonica_azul.png)
+![Telefonica Logo](./logo_telefonica_azul.png)
 
 Links of interest: 
 
